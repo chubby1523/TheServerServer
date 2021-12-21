@@ -39,8 +39,8 @@ Connecting to the server is different for **all platforms**, this section will g
 7. Press play!
 
 ### Bedrock on Xbox
-honestly i have no fucking clue 
+honestly i have no fucking clue 😀
 
 ### Bedrock on Playstation
-something to do with changing DNS servers?!??! idk either
+something to do with changing DNS servers?!??! idk either 😀
 
