@@ -43,3 +43,4 @@ honestly i have no fucking clue
 
 ### Bedrock on Playstation
 something to do with changing DNS servers?!??! idk either
+
