@@ -24,3 +24,6 @@ See [Joining the Server](joining.md) to get started!
 
 # Support the Server
 Please consider donating if you appreciate my work, more infomation on the [Discord server](https://discord.gg/DN6SHSQPqA).
+
+
+!> The Documentation is still a work in progress and many elements have yet to be completed, if you have any issues please contact `@chubby1523` on discord or email <a href="mailto:alex@alexmiao.com">alex@alexmiao.com</a>
