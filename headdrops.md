@@ -97,3 +97,4 @@ ZOMBIE_VILLAGER:    0.019
 ZOMBIFIED_PIGLIN:   0.002
 ```
 ## Custom Heads
+Custom heads can be won through **competitions** hosted by the server admin. Or given out as rewards for supporting the server!  These custom heads can be used as decoration, helmets and anything in between! </br>![](_media\883376968098275388.png) </br>*Custom head that can be obtained by donating.*
