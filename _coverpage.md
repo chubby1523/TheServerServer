@@ -6,8 +6,8 @@
 - **The best** server admin 
 
 [Join Discord](https://discord.gg/DN6SHSQPqA)
-[Server Map](http://server.alexmiao.com:8123)
-[Server Statistics](http://server.alexmiao.com:8804)
+[Server Map](http://tools.server.alexmiao.com:8123)
+[Server Statistics](http://tools.server.alexmiao.com:8804)
 [Read the docs](#The-Server-Server)
 
 
