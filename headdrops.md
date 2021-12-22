@@ -69,7 +69,7 @@ RAVAGER:            0.006
 SALMON:             0.004
 SHEEP:              0.005
 SHULKER:            0.015
-SHULKER|RED:        0.014
+SHULKER_RED:        0.014
 SILVERFISH:         0.005
 SKELETON:           0.003
 SKELETON_HORSE:     0.009
