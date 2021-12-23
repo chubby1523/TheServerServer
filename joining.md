@@ -34,7 +34,7 @@ Connecting to the server is different for **all platforms**, this section will g
 2. Press play and navigate to the **Servers** tab on the right.
 3. Scroll down to **Additional Servers** and click **Add Server**
 4. Enter **"The Server Server"** in the `Server Name` field.
-5. Enter **"server.alexmiao.com"** in the `Server Address` field.
+5. Enter **"bedrock.server.alexmiao.com"** in the `Server Address` field.
 6. The default port should be `19132`, this is the port we want. If your port is not this by default, change it to `19132`.
 7. Press play!
 
